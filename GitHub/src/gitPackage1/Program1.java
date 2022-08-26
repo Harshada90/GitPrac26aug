@@ -7,6 +7,7 @@ public class Program1 {
 		int c = a + b;
 		System.out.println(c);
 		System.out.println("Addition of two number is"+c);
+		System.out.println(c+2);
 
 	}
 }
